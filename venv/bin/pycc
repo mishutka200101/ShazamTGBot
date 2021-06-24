@@ -1,0 +1,3 @@
+#!/Users/smorchkov/Desktop/Учеба/Программирование/Python/tgBot/venv/bin/python
+from numba.pycc import main
+main()
